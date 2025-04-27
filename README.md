@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-UtkarshUpadhyay1919-black?logo=github)](https://github.com/Utkarshupadhyay1919)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Utkarsh%20Upadhyay-blue?logo=linkedin)](https://www.linkedin.com/in/utkarsh-upadhyay-366815260/)
-[![Email](https://img.shields.io/badge/Email-upadhyayutkarsh2003%40gmail.com-red?logo=gmail)](mailto:upadhyayutkarsh2003@gmail.com)
+[![Email](https://img.shields.io/badge/Email-utkarshupadhyay2004%40gmail.com-red?logo=gmail)](mailto:utkarshutkarsh2004@gmail.com)
 
 ---
 
