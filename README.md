@@ -1,94 +1,21 @@
-# 👋 Hi, I'm Utkarsh Upadhyay
-
-[![GitHub](https://img.shields.io/badge/GitHub-UtkarshUpadhyay1919-black?logo=github)](https://github.com/Utkarshupadhyay1919)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Utkarsh%20Upadhyay-blue?logo=linkedin)](https://www.linkedin.com/in/utkarsh-upadhyay-366815260/)
-[![Email](https://img.shields.io/badge/Email-utkarshupadhyay2004%40gmail.com-red?logo=gmail)](mailto:utkarshutkarsh2004@gmail.com)
-
----
-
-## 🧠 About Me
-> Highly motivated and detail-oriented Data Analyst with strong foundations in data analysis, statistics, and programming.  
-> Proficient in Python and SQL, with hands-on experience in data cleaning, transformation, and visualization.
-
-🔍 Skilled in tools like Power BI, with a passion for creating impactful dashboards and uncovering trends.  
-💡 Always committed to continuous learning and driving innovation.
-
----
-
-## 🎓 Education
-
-| Institution | Qualification | Year |
-|:------------|:--------------|:-----|
-| Galgotias University | Bachelor's in Computer Science & Engineering (CGPA: 8.2) | 2021-25 |
-| Avadh International School | Higher Secondary (CBSE) | 2020 |
-| Avadh International School | Matriculation (CBSE) | 2018 |
-
----
-
-## 🛠 Technical Skills
-- Languages & Frameworks: Python, SQL, Power BI, HTML, CSS
-- Database Management: DBMS
-- Systems: Windows OS
-- Concepts: OOP, Software Testing, SDLC models
-
----
-
-## 🧩 Soft Skills
-- Exceptional communication and interpersonal skills
-- Leadership and team collaboration
-- Strong organizational and time management skills
-- Analytical and detail-oriented
-- Active listener
-
----
-
-<details>
-<summary>📈 Projects</summary>
-
-- Restaurant Management Website (Jan 2023 - May 2023)  
-  Developed a dynamic restaurant management system using HTML, CSS, and JavaScript for efficient inventory and order management.
-
-- Cryptocurrency Price Prediction Website (Aug 2023 - May 2024)  
-  Built a price prediction platform using HTML, CSS, JavaScript, Power BI, and machine learning concepts. Designed in Figma for a smooth UX.
-
-</details>
-
----
-
-<details>
-<summary>🏅 Positions of Responsibility</summary>
-
-- Senior Member, Galgotias Management Team (2023-24)  
-  Assisted in event coordination, ensuring seamless execution and cost-effective management.
-
-- Coordinator, Lingo Freaks (2022-23)  
-  Led activities promoting inclusivity, creativity, and language learning among students.
-
-</details>
-
----
-
-## 📜 Certifications
-- AWS Academy Graduate – AWS Academy Cloud Foundations (2022)
-
----
-
-## 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Utkarshupadhyay1919&show_icons=true&theme=radical" alt="Utkarsh's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarshupadhyay1919&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshupadhyay1919&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-# ✨ Let's connect and create something amazing!
-
----
+<h1 align="center">👋 Hello, I'm Utkarsh Upadhyay</h1> <p align="center"> <a href="mailto:upadhyayutkarsh2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me"/></a> <a href="#"><img src="https://img.shields.io/badge/Resume-PDF-0052CC?style=for-the-badge&logo=adobepdf&logoColor=white" alt="View Resume"/></a> <a href="https://github.com/Utkarshupadhyay1919"><img src="https://img.shields.io/badge/GitHub-Visit-black?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub"/></a> <a href="https://www.linkedin.com/in/utkarsh-upadhyay-366815260/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a> </p>
+👨‍💻 About Me
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&pause=1000&color=00FF00&background=000000&width=500&height=60&lines=Passionate+Full-Stack+Developer;Open-Source+Contributor;Lifelong+Learner" alt="Typing SVG" /> </p> <p align="center"> I'm a passionate Full-Stack Developer who loves building robust and scalable web applications. I enjoy tackling challenging problems and continuously learning new technologies. Currently, I'm focused on creating impactful open-source projects and collaborating with other developers to make a difference. </p> <details> <summary>💼 <strong>Projects</strong></summary>
+Portfolio Website: A personal website built with React and Tailwind CSS showcasing projects and blogs.
+Chat App: A real-time chat application using Node.js, Express, and Socket.io.
+Image Classifier: An image classification project using Python and TensorFlow (in progress).
+</details> <details> <summary>🎓 <strong>Education</strong></summary>
+B.Tech in Computer Science (2020 - Present) - XYZ University, India.
+High School (2019) - ABC Secondary School, CBSE Board.
+</details> <details> <summary>🛠 <strong>Skills</strong></summary>
+Languages: Python, JavaScript, C++, Java, HTML/CSS.
+Frameworks & Tools: React, Node.js, Express, MongoDB, MySQL, Docker, Git.
+Other: Data Structures & Algorithms, REST APIs, Agile.
+</details> <details> <summary>🏆 <strong>Certifications</strong></summary>
+AWS Certified Solutions Architect – Associate (2024).
+Google Cloud Certified – Professional Cloud Architect (2023).
+Certified Kubernetes Administrator (CKA) (2022).
+</details> <details> <summary>🤝 <strong>Positions of Responsibility</strong></summary>
+Head of Tech Club, XYZ University (2023 - Present) – Leading a team to organize coding workshops and hackathons.
+Class Representative, Computer Science Dept. (2021 - 2022) – Liaison between students and faculty for academic concerns.
+</details> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Utkarshupadhyay1919&show_icons=true&theme=dark" alt="Utkarsh's GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarshupadhyay1919&theme=dark&background=000000" alt="GitHub Streak Stats" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Utkarshupadhyay1919&theme=dark&no-bg=true&no-frame=true" alt="GitHub Trophy" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Utkarshupadhyay1919&theme=dracula&hide_border=true" alt="GitHub Activity Graph" /> </p> <p align="center">🚀 Let's connect and build amazing things! 🚀</p> <p align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Utkarshupadhyay1919.Utkarshupadhyay1919" alt="Visitor Badge" /> </p>
